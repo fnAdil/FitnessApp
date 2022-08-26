@@ -2,4 +2,7 @@
 
 
 
-<img src="ss/Simulator Screen Shot - iPhone 13 - 2022-08-26 at 15.07.48.png" alt="Main Page" width="400"/>
+<img src="ss/1.png" alt="Main Page" width="400"/>
+
+
+<img src="ss/2.png" alt="Main Page" width="400"/>
